@@ -1,0 +1,15 @@
+[Desktop Entry]
+Version=0.1
+Type=Application
+Name=Compatibility Manager (Win64)
+Name[tr]=Uyumluluk Yöneticisi (Win64)
+GenericName=Compatibility Manager (Win64)
+GenericName[tr]=Uyumluluk Yöneticisi (Win64)
+Comment=A compatibility manager for Pardus operating system
+Comment[tr]=Pardus işletim sistemi için bir uyumluluk yöneticisi
+TryExec=compatibility-manager-w64
+Exec=compatibility-manager-w64
+Icon=gnome-run
+Terminal=false
+Categories=System
+StartupNotify=false

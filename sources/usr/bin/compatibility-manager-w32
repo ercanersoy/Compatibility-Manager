@@ -1,0 +1,9 @@
+#!/bin/sh
+#
+# compatibility-manager-win32 - win32 script of Compatibility Manager
+#
+# Copyright (c) 2022 Ercan Ersoy
+# Written by Ercan Ersoy.
+#
+
+firejail --profile=compatibility-manager-w32 wine explorer

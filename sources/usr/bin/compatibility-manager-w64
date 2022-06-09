@@ -1,0 +1,9 @@
+#!/bin/sh
+#
+# compatibility-manager-win64 - win64 script of Compatibility Manager
+#
+# Copyright (c) 2022 Ercan Ersoy
+# Written by Ercan Ersoy.
+#
+
+firejail --profile=compatibility-manager-w64 wine explorer
