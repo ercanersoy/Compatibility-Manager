@@ -1,0 +1,9 @@
+Package: compatibility-manager
+Version: 0.1
+Architecture: all
+Section: misc
+Priority: optional
+Maintainer: Ercan Ersoy <ercanersoy@ercanersoy.net>
+Depends: python3, python3-gi
+Homepage: https://github.com/ercanersoy/compatibility-manager
+Description: A compatibility manager for Debian and Debian based operating systems

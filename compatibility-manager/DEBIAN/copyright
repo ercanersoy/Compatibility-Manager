@@ -1,0 +1,8 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: compatibility-manager
+Upstream-Contact: 2021-2023 Ercan Ersoy <ercanersoy@ercanersoy.net>
+Source: http://github.com/ercanersoy/compatibility-manager
+
+Files: *
+Copyright: 2021-2023 Ercan Ersoy <ercanersoy@ercanersoy.net>
+License: MIT
