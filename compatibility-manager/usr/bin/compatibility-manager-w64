@@ -6,4 +6,5 @@
 # Written by Ercan Ersoy.
 #
 
-firejail --profile=compatibility-manager-w64 wine explorer
+mkdir -p $1
+WINEPREFIX=$1 firejail --profile=compatibility-manager-w64 wine explorer
